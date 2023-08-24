@@ -1,7 +1,7 @@
 # utility
 
 I) Read file and update text using npm command script
-
+```
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
@@ -103,5 +103,3 @@ async function main() {
 }
 
 main();
-
-
